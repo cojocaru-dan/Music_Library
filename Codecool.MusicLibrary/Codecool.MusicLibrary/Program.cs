@@ -33,7 +33,8 @@ public class Program
 
     public static void Main(string[] args)
     {
-        var ui = new MusicLibraryUi();
+        ILibrary library = new Library(_songs);
+        var ui = new MusicLibraryUi(library);
         ui.Run();
     }
 }

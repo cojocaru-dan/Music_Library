@@ -1,0 +1,18 @@
+[8/24/2023 10:32:47 AM] ERROR: blank is not a valid input.
+[8/24/2023 10:33:00 AM] INFO: Song { Title = test, Artist = test, LengthInSeconds = 555 } was added Successfully!
+[8/24/2023 10:33:43 AM] ERROR: blank is not a valid input.
+[8/24/2023 10:33:46 AM] ERROR: blank is not a valid input.
+[8/24/2023 10:34:44 AM] INFO: The song 'Positions' was removed successfully.
+[8/24/2023 10:36:28 AM] INFO: The library is empty!
+[8/24/2023 10:40:16 AM] ERROR: blank is not a valid input.
+[8/24/2023 10:40:19 AM] ERROR: blank is not a valid input.
+[8/24/2023 10:40:25 AM] ERROR: blank is not a valid input.
+[8/24/2023 10:40:38 AM] INFO: Song { Title = test, Artist = test, LengthInSeconds = 333 } was added Successfully!
+[8/24/2023 10:40:54 AM] INFO: There was a search for the name 'asdas'.
+[8/24/2023 10:41:21 AM] INFO: There was a search for the name 'Ariana Grande'.
+[8/24/2023 10:41:37 AM] ERROR: blank is not a valid input.
+[8/24/2023 10:42:05 AM] INFO: The song 'Lonely' was removed successfully.
+[8/24/2023 10:42:20 AM] INFO: The library is empty!
+[8/24/2023 10:43:31 AM] INFO: There was a search for the name 'Justin Bieber'.
+[8/24/2023 10:45:35 AM] INFO: The song 'Say So' was removed successfully.
+[8/24/2023 10:45:51 AM] INFO: The library is empty now!
